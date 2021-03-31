@@ -1,0 +1,88 @@
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\bin\Debug\GloiathNationalBank.Commerce.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\obj\Debug\GloiathNationalBank.Commerce.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Util\obj\Debug\GloiathNationalBank.Commerce.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csprojAssemblyReference.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.csproj.CopyComplete
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Util\obj\Debug\DigitalWare.Billing.Common.Util.pdb

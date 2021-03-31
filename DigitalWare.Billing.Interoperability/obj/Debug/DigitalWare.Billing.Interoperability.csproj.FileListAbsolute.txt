@@ -1,0 +1,87 @@
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Web.Http.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csprojAssemblyReference.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CopyComplete
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Web.Http.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csprojAssemblyReference.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CopyComplete
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Web.Http.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Net.Http.Formatting.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Web.Http.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\Newtonsoft.Json.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csprojAssemblyReference.cache
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CopyComplete
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\System.Web.Http.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csprojAssemblyReference.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.csproj.CopyComplete
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Interoperability\obj\Debug\DigitalWare.Billing.Interoperability.pdb

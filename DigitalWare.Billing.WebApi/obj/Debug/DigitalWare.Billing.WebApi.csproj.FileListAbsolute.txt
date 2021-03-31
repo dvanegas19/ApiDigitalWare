@@ -1,0 +1,461 @@
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.rsp
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.rsp
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Console.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.rsp
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Data.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Abstractions.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Configuration.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Container.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\WebActivator.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\CommonServiceLocator.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csprojAssemblyReference.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CopyComplete
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.rsp
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.rsp
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Console.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.rsp
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Data.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Abstractions.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Configuration.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Container.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\WebActivator.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\CommonServiceLocator.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csprojAssemblyReference.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CopyComplete
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Console.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Data.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Abstractions.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Configuration.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Container.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\WebActivator.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\CommonServiceLocator.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.rsp
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.rsp
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.AppContext.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Console.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.rsp
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Data.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Abstractions.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Configuration.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Container.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.Configuration.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.ServiceLocation.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\WebActivator.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\CommonServiceLocator.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Newtonsoft.Json.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csprojAssemblyReference.cache
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CopyComplete
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.WebApi.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csc.rsp
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\csi.rsp
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Console.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\vbc.rsp
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Data.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Abstractions.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Configuration.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Container.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.Configuration.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.Interception.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.RegistrationByConvention.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Unity.ServiceLocation.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\WebActivator.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\CommonServiceLocator.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Business.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Repository.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csprojAssemblyReference.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.csproj.CopyComplete
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\obj\Debug\DigitalWare.Billing.WebApi.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Cors.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApi\bin\es\System.Web.Cors.resources.dll

@@ -1,0 +1,521 @@
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Console.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\WebGrease.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csprojAssemblyReference.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.rsp
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.rsp
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Console.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.rsp
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\WebGrease.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CopyComplete
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.rsp
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.rsp
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Console.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.rsp
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\WebGrease.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csprojAssemblyReference.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CopyComplete
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Console.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.rsp
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\WebGrease.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.rsp
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.rsp
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.AppContext.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Console.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.rsp
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\WebGrease.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csprojAssemblyReference.cache
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CopyComplete
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.WebApp.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csc.rsp
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\csi.rsp
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Console.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\vbc.rsp
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\WebGrease.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Helpers.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Mvc.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Optimization.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.Razor.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Newtonsoft.Json.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Antlr3.Runtime.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\bin\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csprojAssemblyReference.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.csproj.CopyComplete
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.WebApp\obj\Debug\DigitalWare.Billing.WebApp.pdb

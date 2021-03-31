@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-3.3.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    @*<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>*@
+    <script src="~/Scripts/invoice.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Registro de Factura</h2>
+        <form>
+            <div class="form-group">
+                <label for="Client">Cliente</label>
+                <select id="Client" class="form-control">
+                    <option>Seleccione un Cliente</option>
+                </select>
+                <label for="EmployeeId">IVA</label>
+                <input type="text" class="form-control" id="Iva" value="16" placeholder="Iva" disabled="disabled" />
+                <label for="Total">Total</label>
+                <input type="number" class="form-control" maxlength="16" id="Total" disabled="disabled" placeholder="Total" />
+            </div>
+        </form>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" onclick="clearTextBox();">Seleccione el Producto</button><br /><br />
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        Producto
+                    </th>
+                    <th>
+                        Unidades
+                    </th>
+                </tr>
+            </thead>
+            <tbody class="tbody"></tbody>
+        </table>
+
+        <button type="button" class="btn btn-primary" data-toggle="modal" 
+                onclick="btnSaveInvoice();">Guardar Factura</button><br /><br />
+    </div>
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    @*<button type="button" class="close" data-dissmiss="modal"><span aria-hidden="true">&times;</span></button>*@
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title" id="myModalLabel">Seleccione los productos</h4>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label for="ProductId">ID</label>
+                            <input type="text" class="form-control" id="ProductId" placeholder="" disabled="disabled" />
+                        </div>
+                        <label for="Product">Producto</label>
+                        <select id="Product" class="form-control">
+                            <option>Seleccione un Producto</option>
+                        </select>
+                        <div class="form-group">
+                            <label for="Unidades">Unidades</label>
+                            <input type="number" maxlength="2" class="form-control" id="Unidades" placeholder="Unidades" />
+                        </div>
+                         <div class="">
+                             <label for="valor">Valor Producto</label>
+                            <input type="text" class="form-control" id="valor" placeholder="" disabled="disabled" />
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Agregar</button>
+                    <button type="button" class="btn btn-default" id="btnClose" data-dismiss="modal">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\bin\Debug\GloiathNationalBank.Commerce.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\bin\Debug\GloiathNationalBank.Commerce.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\obj\Debug\GloiathNationalBank.Commerce.Common.Resources.Setting.resources
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\obj\Debug\GloiathNationalBank.Commerce.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce\GloiathNationalBank.Commerce.Common.Resources\obj\Debug\GloiathNationalBank.Commerce.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.Setting.resources
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\GloiathNationalBank.Commerce\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csprojAssemblyReference.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.Setting.resources
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csprojAssemblyReference.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.Setting.resources
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.Setting.resources
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.Setting.resources
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.Setting.resources
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.GenerateResource.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Common.Resources\obj\Debug\DigitalWare.Billing.Common.Resources.pdb

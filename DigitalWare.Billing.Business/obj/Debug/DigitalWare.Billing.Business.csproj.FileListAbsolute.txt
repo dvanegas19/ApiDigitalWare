@@ -1,0 +1,112 @@
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\EntityFramework.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.pdb
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csprojAssemblyReference.cache
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CopyComplete
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.dll
+C:\Users\david\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csprojAssemblyReference.cache
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\EntityFramework.dll
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.pdb
+C:\Users\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\EntityFramework.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.pdb
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csprojAssemblyReference.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CoreCompileInputs.cache
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CopyComplete
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.dll
+C:\Users\dvanegas\Desktop\DavidVanegasPrieto\DigitalWare.Billing\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\Unity.Abstractions.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\EntityFramework.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.pdb
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csprojAssemblyReference.cache
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CopyComplete
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.dll
+C:\DigitalWare.Billing (1)\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Business.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\EntityFramework.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Entity.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Interface.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Logger.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Resources.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Common.Util.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Interoperability.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\bin\Debug\DigitalWare.Billing.Repository.pdb
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csprojAssemblyReference.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.csproj.CopyComplete
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.dll
+C:\Users\david\Documents\David\DigitalWareFacturacion\DigitalWare.Billing\DigitalWare.Billing.Business\obj\Debug\DigitalWare.Billing.Business.pdb
